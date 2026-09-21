@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+._*
+
+# Office lock files
+~$*
+
+# editor / tooling
+.claude/settings.local.json
